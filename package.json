@@ -1,0 +1,15 @@
+{
+  "name": "fdnd-node",
+  "version": "1.0.0",
+  "description": "Node example",
+  "main": "app.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "Daan Korver",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "vercel": "^33.5.4"
+  }
+}
